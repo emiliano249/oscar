@@ -105,7 +105,7 @@ section .title::after{
 /* ultimo emi estaba grande font-size: 35px;*/
 .navbar .logo a{
     color: #fff;
-    font-size: 25px;
+    font-size: 35px;
     font-weight: 600;
 }
 .navbar .logo a span{
@@ -134,12 +134,13 @@ section .title::after{
     color: #4d65a0;
 }
 
-/* menu btn styling emi ultimo tamaño menu amburguesa estaba en 23 , ahora font-size: 33px;*/
-.menu-btn{
+/* menu btn styling emi ultimo tamaño menu amburguesa estaba en 23 , ahora font-size: 40px; IMPORTANTE QUE AGREGUE PADDING RIGTH20*/
+.menu-btn {
     color: #fff;
-    font-size: 28px;
+    font-size: 40px;
     cursor: pointer;
     display: none;
+    padding-right: 20px;
 }
 .scroll-up-btn{
     position: fixed;
