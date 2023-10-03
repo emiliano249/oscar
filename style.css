@@ -121,7 +121,7 @@ section .title::after {
 /* ultimo emi estaba grande font-size: 35px;*/
 .navbar .logo a {
     color: #fff;
-    font-size: 35px;
+    font-size: 27px;
     font-weight: 600;
 }
 
@@ -227,6 +227,7 @@ section .title::after {
     font-weight: 900;
     /* margin-left: -3px; */
     text-align: center;
+    color: #ffffff;
 }
 
 .home .home-content .text-3 {
