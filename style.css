@@ -105,7 +105,7 @@ section .title::after{
 /* ultimo emi estaba grande font-size: 35px;*/
 .navbar .logo a{
     color: #fff;
-    font-size: 27px;
+    font-size: 25px;
     font-weight: 600;
 }
 .navbar .logo a span{
@@ -137,7 +137,7 @@ section .title::after{
 /* menu btn styling emi ultimo tamaño menu amburguesa estaba en 23 , ahora font-size: 33px;*/
 .menu-btn{
     color: #fff;
-    font-size: 33px;
+    font-size: 28px;
     cursor: pointer;
     display: none;
 }
