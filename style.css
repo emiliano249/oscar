@@ -25,6 +25,11 @@ html {
     font-weight: 900;
 }
 
+.serv {
+
+    text-align: center;
+
+}
 /* custom scroll bar */
 ::-webkit-scrollbar {
     width: 10px;
@@ -399,6 +404,7 @@ section .title::after {
     font-size: 30px;
     font-weight: 500;
     margin: 10px 0 7px 0;
+    text-align: center;
 }
 
 
@@ -672,6 +678,7 @@ section .title::after {
 
 .contact .contact-content .info .sub-title {
     color: #333;
+    font-size: 18px;
 }
 
 

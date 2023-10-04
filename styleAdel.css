@@ -629,6 +629,8 @@ section .title::after{
 }
 .contact .contact-content .info .sub-title{
     color: #333;
+    font-size: 18px;
+
 }
 
 
