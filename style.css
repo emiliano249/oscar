@@ -768,7 +768,7 @@ section .title::after {
     width: 60px;
     height: 60px;
     line-height: 63px;
-    bottom: 80px;
+    bottom: 25px;
     right: 25px;
     background: #25d366;
     color: #FFF;
