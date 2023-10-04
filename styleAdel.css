@@ -18,6 +18,16 @@ html{
     scroll-behavior: smooth;
 }
 
+.tituloH1 {
+    font-size: 32px;
+    text-align: center;
+    font-weight: 900;
+}
+.tachado {
+   text-decoration: line-through;
+}
+
+
 /* custom scroll bar */
 ::-webkit-scrollbar {
     width: 10px;
@@ -103,17 +113,19 @@ section .title::after{
     justify-content: space-between;
 }
 /* ultimo emi estaba grande font-size: 35px;*/
-.navbar .logo a{
-    color: #fff;
+.navbar .logo a {
+    color: #df0024;
     font-size: 27px;
     font-weight: 600;
 }
-.navbar .logo a span{
-    color: #4d65a0;
+
+.navbar .logo a span {
+    color: #0669b2;
     transition: all 0.3s ease;
 }
-.navbar.sticky .logo a span{
-    color: #4d65a0;
+
+.navbar.sticky .logo a span {
+    color: #0669b2;
 }
 .navbar .menu li{
     list-style: none;
@@ -692,7 +704,7 @@ section .title::after{
     width:60px;
     height:60px;
     line-height: 63px;
-    bottom:80px;
+    bottom:25px;
     right:25px;
     background:#25d366;
     color:#FFF;
@@ -842,6 +854,11 @@ footer span a:hover{
         width: 100%;
     }
 
+    .tituloH1 {
+        font-size: 20px;
+        text-align: center;
+        font-weight: 900;
+    }
 }
 
 
