@@ -19,6 +19,12 @@ html {
     scroll-behavior: smooth;
 }
 
+.tituloH1 {
+    font-size: 32px;
+    text-align: center;
+    font-weight: 900;
+}
+
 /* custom scroll bar */
 ::-webkit-scrollbar {
     width: 10px;
@@ -941,6 +947,12 @@ footer span a:hover {
 
     .services .serv-content .card {
         width: 100%;
+    }
+
+    .tituloH1 {
+        font-size: 20px;
+        text-align: center;
+        font-weight: 900;
     }
 
 }
