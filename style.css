@@ -126,18 +126,18 @@ section .title::after {
 
 /* ultimo emi estaba grande font-size: 35px;*/
 .navbar .logo a {
-    color: #fff;
+    color: #df0024;
     font-size: 27px;
     font-weight: 600;
 }
 
 .navbar .logo a span {
-    color: #4d65a0;
+    color: #0669b2;
     transition: all 0.3s ease;
 }
 
 .navbar.sticky .logo a span {
-    color: #4d65a0;
+    color: #0669b2;
 }
 
 .navbar .menu li {
@@ -357,7 +357,7 @@ section .title::after {
     background: #ffffff;
 } */
 .services .serv-content .card {
-    width: calc(33% - 20px);
+    width: calc(50% - 20px);
     background: #222;
     text-align: center;
     border-radius: 6px;
@@ -366,15 +366,6 @@ section .title::after {
     transition: all 0.3s ease;
 }
 
-.services .serv-content .cardOscar {
-    /* width: calc(33% - 20px); */
-    /* background: #222; */
-    text-align: center;
-    border-radius: 6px;
-    padding: 20px 25px;
-    cursor: pointer;
-    transition: all 0.3s ease;
-}
 
 .services .serv-content .card:hover {
     background: #1e2852;
