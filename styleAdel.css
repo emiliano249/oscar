@@ -24,6 +24,7 @@ html{
     font-weight: 900;
 }
 .tachado {
+    font-size: 20px ;
    text-decoration: line-through;
 }
 
