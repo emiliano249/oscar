@@ -852,6 +852,11 @@ footer span a:hover{
         text-align: center;
         font-weight: 900;
     }
+    section .title{
+
+        font-size: 35px;
+
+    }
 }
 
 
