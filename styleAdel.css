@@ -152,7 +152,7 @@ section .title::after{
     font-size: 40px;
     cursor: pointer;
     display: none;
-    padding-right: 20px;
+    padding-right: 30px;
 }
 .scroll-up-btn{
     position: fixed;
@@ -364,16 +364,6 @@ section .title::after{
     font-size: 30px;
     font-weight: 500;
     margin: 10px 0 7px 0;
-}
-
-
-/* ------------------------- */
-/* Mediaqueries */
-/* ------------------------- */
-@media screen and (max-width: 700px) {
-	.grid .item {
-		width: calc(50% - 20px);
-	}
 }
 
 
